@@ -1,0 +1,43 @@
+#body{
+font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  display:flex;
+  justify-content: center;
+
+
+}
+.nit{
+  margin: 50px;
+  padding:50px;
+  background-color: aquamarine;
+  
+}
+.main{
+  display:flex;
+  justify-content: space-around;
+  margin: 50px;
+  padding:50px;
+  flex-wrap: wrap;
+}
+.st{
+  margin:50px;
+  padding:50px;
+  background-color: aquamarine;
+
+}
+.jmc{
+  margin:50px;
+  padding:50px;
+  background-color: aquamarine;
+}
+.bishop{
+  margin:50px;
+  padding:50px;
+  background-color: aquamarine;
+}
+.holy{
+  margin:50px;
+  padding:50px;
+  background-color: aquamarine;
+}
